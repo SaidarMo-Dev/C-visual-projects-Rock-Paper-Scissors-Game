@@ -1,0 +1,11 @@
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe.config
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.exe
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\bin\Debug\Rock_Paper_Scissors_Game.pdb
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csprojResolveAssemblyReference.cache
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Form1.resources
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.Properties.Resources.resources
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.csproj.GenerateResource.Cache
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.exe
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.pdb
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.ShopForm.resources
+B:\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\obj\Debug\Rock_Paper_Scissors_Game.BuyCoinsForm.resources
